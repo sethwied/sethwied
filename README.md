@@ -16,7 +16,7 @@ I'm a **Software Engineer** specializing in modern web applications, with experi
 
 ### [App.Qwarkle.com](https://app.qwarkle.com)
 
-🛠 **Tech Stack:** React, TypeScript, Firebase, GCP  
+🛠 **Tech Stack:** React, Firebase, GCP  
 📌 **Description:** Knowledge retention platform designed to enhance learning and institutional knowledge capture.
 
 ### [Kings Academy Nashville](https://kingsacademynashville.com)
@@ -31,9 +31,9 @@ I'm a **Software Engineer** specializing in modern web applications, with experi
 
 ## 🛠 Tech Stack
 
-- 💻 **Frontend:** React, Next.js, Gatsby
-- ⚙️ **Backend:** Node.js, Firebase
-- 📦 **Infrastructure:** AWS, GCP
+- 💻 **Frontend:** TypeScript, React, Next.js, Gatsby
+- ⚙️ **Backend:** Node.js, Firebase, GraphQL
+- 📦 **Infrastructure:** Terraform, AWS, GCP
 - 📊 **Databases:** Firestore, MongoDB
 
 ## 🎓 Certifications
